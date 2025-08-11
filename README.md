@@ -81,6 +81,11 @@ VisionAI_Project/
 
 ---
 
+- ## 📄 Presentation
+[Download the project slides](VisionAI_Project_Presentation.pdf)
+
+---
+
 ## 📚 References
 - [TensorFlow](https://www.tensorflow.org/)  
 - [Keras Applications](https://keras.io/api/applications/)  
