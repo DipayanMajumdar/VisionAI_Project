@@ -81,7 +81,7 @@ VisionAI_Project/
 
 ---
 
-- ## 📄 Presentation
+## 📄 Presentation
 [Download the project slides](VisionAI_Project_Presentation.pdf)
 
 ---
