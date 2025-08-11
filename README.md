@@ -61,16 +61,16 @@ It demonstrates skills in image preprocessing, deep learning, evaluation metrics
 ---
 
 ## 📂 Project Structure
-
+```
 VisionAI_Project/
-│── baseline_cnn.keras # Baseline CNN model
-│── mobilenetv2_finetuned.keras # Fine-tuned MobileNetV2 model
-│── accuracy_curves.png # Accuracy comparison plot
-│── confusion_matrix.png # Confusion matrix
-│── sample_predictions.png # Example predictions
-│── VisionAI_Project.ipynb # Google Colab notebook
-│── README.md # Project documentation
-
+│── baseline_cnn.keras               # Baseline CNN model
+│── mobilenetv2_finetuned.keras      # Fine-tuned MobileNetV2 model
+│── accuracy_curves.png              # Accuracy comparison plot
+│── confusion_matrix.png              # Confusion matrix
+│── sample_predictions.png           # Example predictions
+│── VisionAI_Project.ipynb           # Google Colab notebook
+│── README.md                        # Project documentation
+```
 
 ---
 
